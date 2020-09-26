@@ -234,6 +234,23 @@ html {
 }
 
 
+/* --- Footer --- */
+
+.footer-container{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    float: left;
+    
+}
+
+.footer-item {
+
+}
+
+/* --- Footer End --- */
+
+
 /* --- About Us --- */
 
 .about-us {
@@ -355,5 +372,5 @@ width: 100%;
     
 }
 
-
 /* --- About Us End --- */
+
