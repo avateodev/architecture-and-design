@@ -391,4 +391,7 @@ width: 100%;
     margin-top: 8rem;
 }
 
+body {
+    background: red;
+}
 /* --- Team End */
