@@ -374,3 +374,21 @@ width: 100%;
 
 /* --- About Us End --- */
 
+/* --- Team --- */
+
+.team {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0 5rem 20rem 5rem;
+
+}
+
+.cards-wrapper {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 8rem;
+}
+
+/* --- Team End */
